@@ -4,7 +4,7 @@ Countdowns App
 
 ## What am I building?
 
-In this course, you'll embark on the development of the "Countdowns" app, a SwiftUI-based application designed to manage and countdown to your important events. But this isn't just any countdown app. Picture it as a practical space to get your hands dirty with the intricacies of SwiftUI.
+In this project, you'll embark on the development of the "Countdowns" app, a SwiftUI-based application designed to manage and countdown to your important events. But this isn't just any countdown app. Picture it as a practical space to get your hands dirty with the intricacies of SwiftUI.
 
 Central to the app is the concept of events. You'll be adding, editing, and displaying them in an organized timeline. Through this process, you'll gain valuable experience in navigation, seamlessly moving between different views and ensuring a fluid user experience.
 
